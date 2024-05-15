@@ -1,0 +1,6 @@
+# Ignore .terraform files
+*.hcl
+.terraform/
+
+# ignore key.json
+key.json
