@@ -28,3 +28,7 @@ To verify kubectl commands:
   `alias k='kubectl'`
   `k config view`
   `k get pods -A`
+
+To do: 
+use variables instead of hardcoding values
+
