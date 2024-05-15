@@ -1,8 +1,10 @@
 Creating GKE cluster using terraform:
+
 install terraform on your terminal: https://developer.hashicorp.com/terraform/install
 
 install gcloud CLI: https://cloud.google.com/sdk/docs/install
-verify your gcloud cli: gcloud config list project
+
+verify your gcloud cli: `gcloud config list project`
 
 clone the current repo and modify the code according to your gcp account.
 
